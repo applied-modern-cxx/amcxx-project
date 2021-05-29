@@ -9,9 +9,3 @@ cxx_library(
    FILENAME "test_main.cpp"
    LINK_TARGETS Catch2::Catch2
 )
-
-cxx_test(
-   TARGET test_greeting
-   FILENAME "greeting_test.cpp"
-   LINK_TARGETS greeting
-)
