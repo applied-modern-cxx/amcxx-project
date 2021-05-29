@@ -3,7 +3,7 @@
 #
 cmake_minimum_required(VERSION 3.17)
 
-project("TODO_RENAME_ME" CXX)
+project("APPLIED_MODERN_CXX" CXX)
 
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_EXTENSIONS Off)

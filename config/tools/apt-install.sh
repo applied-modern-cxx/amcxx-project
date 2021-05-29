@@ -5,8 +5,6 @@
 
 set -e
 
-
-
 apt_install() {
    echo "Installing system tools"
 
